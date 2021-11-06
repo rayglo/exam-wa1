@@ -1,0 +1,16 @@
+.question-card {
+    margin-top: 30px;
+}
+
+#title {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#warning-text {
+    font-size: 8pt;
+}
+
+.submit-box{
+    margin-top: 30px;
+}

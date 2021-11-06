@@ -1,0 +1,28 @@
+.survey-card {
+    margin-top: 30px;
+}
+
+.survey-card-button {
+    margin-top: 3px;
+    width: 200px
+}
+
+.collapse-card-button {
+    border: 0px;
+    background-color: transparent;
+}
+
+.collapsed {
+    transform:rotate(180deg);
+}
+
+#title {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.error-message {
+    color: red;
+    align-content: center;
+    justify-content: center;
+}
